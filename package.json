@@ -1,0 +1,26 @@
+{
+  "name": "swissknife",
+  "version": "1.0.0",
+  "description": "This my faster lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivashmelev/Swissknife.git"
+  },
+  "author": "Ivan Shmelev (github: ivashmelev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivashmelev/Swissknife/issues"
+  },
+  "homepage": "https://github.com/ivashmelev/Swissknife#readme",
+  "dependencies": {
+    "npm": "^6.11.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "mocha": "^6.2.0"
+  }
+}
