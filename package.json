@@ -20,7 +20,7 @@
     "npm": "^6.11.3"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mocha": "^6.2.0"
   }
 }
